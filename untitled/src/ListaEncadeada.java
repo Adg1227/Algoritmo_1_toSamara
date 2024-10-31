@@ -1,3 +1,4 @@
+import java.util.HashSet;
 public class ListaEncadeada<T> {
     private No<T> inicio;
     private No<T> ultimo;
